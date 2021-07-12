@@ -1,0 +1,26 @@
+.contact{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-texture-geometric-black-metal-gradient-image_17809.jpg");
+    height: 1000px;
+    background-size: 100%;
+}
+h2{
+    align-items: center;
+    color: aliceblue;
+    
+    
+    
+}
+.icon{
+    font-size: 50px;
+    
+    color: blue;
+    display: inline;
+}
+.icons{
+    margin-left: 400px;
+}
+.alignment{
+   
+    margin-top: 40px;
+}
+
